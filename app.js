@@ -150,4 +150,4 @@ const filter_word = (cb) => {
 setInterval(() => {
     get_quote();
     console.log("Hello World");
-}, (60 * 5) * 1000);
+}, (60 * 2) * 1000);
